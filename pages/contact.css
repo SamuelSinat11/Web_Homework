@@ -4,6 +4,7 @@
 body{ 
     background-image: url("https://cdn.pixabay.com/photo/2020/08/17/14/37/coffee-5495609_1280.jpg") ;
     background-repeat: no-repeat;
+    
 }
 .wrapper{
   overflow: hidden;
